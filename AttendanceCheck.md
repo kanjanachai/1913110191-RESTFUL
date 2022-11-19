@@ -1,1 +1,1 @@
-Kanjanachai Yaowarat (Lin): Introduction
+Kanjanachai Yaowarat (Lin): Chapter 2 - Basic NPM & Basic Modern Javascript

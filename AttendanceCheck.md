@@ -1,1 +1,1 @@
-Kanjanachai Yaowarat (Lin): Chapter 2 - Basic NPM & Basic Modern Javascript
+Kanjanachai Yaowarat (Lin): Chapter 3 - Basic Node.js & Express.js
